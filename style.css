@@ -1,0 +1,21 @@
+body{
+    background-color: gray;
+    text-align: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#text, #code{
+    color:white;
+    font-size: 64px;
+    
+}
+
+button{
+    display:block;
+    margin: 0 auto;
+    font-size: 48px;
+    text-decoration: none;
+    border-radius: 10px;
+
+}
